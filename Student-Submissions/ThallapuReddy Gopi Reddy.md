@@ -110,12 +110,17 @@ ThallapuReddy Gopi Reddy
   Gamified leaderboard for engineers
   Early warning SLA alert dashboard 
    - Repository Link: https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics
+   - Data Cleaning using python:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Data%20Cleaning%20using%20python
+   - Data:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Data
+   - Documentation:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Documentation
+   - Power BI:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/PowerBI
+   - Screenshots:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Screenshots
 
 ## Skills
 - Power BI
 - Python etc
 
-# Internship / Experience 
+# Internship / Experience :
 - I have learned From this Internsip adout what Kind work can be done by a Data Analytics.
 - How data can be Analized in Different ways.
  
