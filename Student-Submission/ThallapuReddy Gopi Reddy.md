@@ -20,8 +20,6 @@ ThallapuReddy Gopi Reddy
    
  # Project Detailed description:
  
-     Description:
-     
   # 1.Business Problem:
      IT support teams often struggle with
      High ticket backlog
@@ -68,7 +66,8 @@ ThallapuReddy Gopi Reddy
     
        Reimagine IT support as a data-driven performance engine, not a ticket queue. AI-driven anomaly detection Predictive staffing model Automated weekly                 performance reports Gamified leaderboard for engineers Early warning SLA alert dashboard
 
-  # Repository Link: https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics
+   Repository Link: https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics
+   
       Data Cleaning using python:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Data%20Cleaning%20using%20python
       
       Data:https://github.com/GopiReddy351/-Optimizing-IT-Support-Team-Performance-Using-Analytics/tree/main/Data
